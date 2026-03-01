@@ -19,7 +19,7 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   📈 **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data, built for simplicity, speed, and clarity.
 ## My Vision
 
-My ambition is to be among the top 1% by consistently pushing boundaries and building impactful solutions. I am deeply passionate about the transformative power of AI and the decentralized future of crypto. My goal is to evolve from AI and agents in the first part of my life to pioneering new frontiers in AI agents and memecoins in the latter, ensuring I never do the same thing twice.
+Driven by the transformative potential of AI and the decentralized future of crypto, I push boundaries to build impactful solutions. My journey moves from mastering AI and agents to pioneering new frontiers in AI-driven projects and memecoins, always innovating and never repeating the same path.
 
 ## Connect with Me
 
