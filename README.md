@@ -18,6 +18,8 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🌐 **[landingpage](https://github.com/HoratiuCode/landingpage)**: Concept and landing page prototype for Teddy AI, an AI agency website.
 *   📈 **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data, built for simplicity, speed, and clarity.
 *   🗑️ **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
+*   🦐 **[Jameclaw](https://github.com/HoratiuCode/jameclaw)**: Your AI agent for fancy jobs
+
 ## My Workspace
 
 My digital forge is powered by a suite of cutting-edge tools, meticulously chosen to amplify productivity and innovation:
