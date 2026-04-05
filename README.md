@@ -21,6 +21,7 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🛠️ **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
 *   💰 **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
 *   🤖 **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of simple AI agents for various tasks.
+*   🦐 **[Clawie](https://github.com/HoratiuCode/Clawie)**
 *   🦐 **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs
 
 ## My Workspace
