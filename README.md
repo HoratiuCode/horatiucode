@@ -29,6 +29,9 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of lightweight and easy-to-deploy AI agent templates.
 *   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 *   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
+*   📊  **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: Polymarket risk/reward scanner for binary contracts.
+*   🚀  **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: Launch your coin.
+*   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
 
 ## My Workspace
 
