@@ -17,6 +17,8 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: Clawie is a fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
 *   🤖  **[VAl_companion](https://github.com/HoratiuCode/VAl_companion)**: A versatile AI companion designed to assist with daily tasks and information retrieval.
+*   🔵  **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: Polymarket risk/reward scanner for binary contracts.
+*   🔵 **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: Launch your coin.
 *   📈  **[trader-learn](https://github.com/HoratiuCode/trader-learn)**: An educational platform focused on teaching stock and crypto trading strategies.
 *   👃  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**: A tool for tracking and analyzing trending memecoin across multiple blockchains.
 *   💡  **[ideas-machien](https://github.com/HoratiuCode/ideas-machien)**: An innovative engine for brainstorming and organizing creative project ideas.
@@ -29,8 +31,6 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of lightweight and easy-to-deploy AI agent templates.
 *   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 *   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
-*   📊  **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: Polymarket risk/reward scanner for binary contracts.
-*   🚀  **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: Launch your coin.
 *   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
 
 ## My Workspace
