@@ -12,8 +12,6 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 ## Current Projects
 
-Here are some of the initiatives I'm actively building and contributing to:
-
 *   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: Clawie is a fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
 *   🤖  **[VAl_companion](https://github.com/HoratiuCode/VAl_companion)**: A versatile AI companion designed to assist with daily tasks and information retrieval.
@@ -32,7 +30,8 @@ Here are some of the initiatives I'm actively building and contributing to:
 *   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 *   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
 *   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
-
+*   (Fără descriere) **[Founder-Memory](https://github.com/HoratiuCode/Founder-Memory)**
+*   (Fără descriere) **[onlyterp-reimagined](https://github.com/HoratiuCode/onlyterp-reimagined)**
 ## My Workspace
 
 My digital forge is powered by a suite of cutting-edge tools, meticulously chosen to amplify productivity and innovation:
