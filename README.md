@@ -1,6 +1,7 @@
 # Hi, I'm Horatiu 🤖
 
 📍 **Timișoara ↔ Everywhere** | 🚀 **AI & Crypto Visionary** | 💼 **Co-founder of Symplyfy**
+🧠 **Polymath**
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI-Powered-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered Badge">
