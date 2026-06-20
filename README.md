@@ -14,7 +14,7 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 
 *   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: Clawie is a fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
 *   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
-*   🧠 **[Founder-Memory](https://github.com/HoratiuCode/Founder-Memory)**
+*   🧠 **[Founder-Memory](https://github.com/HoratiuCode/Founder-Memory)**: Access your second brain
 *   🤖  **[VAl_companion](https://github.com/HoratiuCode/VAl_companion)**: A versatile AI companion designed to assist with daily tasks and information retrieval.
 *   🔵  **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: Polymarket risk/reward scanner for binary contracts.
 *   🔵 **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: Launch your coin.
