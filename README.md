@@ -32,6 +32,8 @@ Deep in the pursuit of **transformative AI and decentralized technologies**, I a
 *   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
 *   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
 *   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
+*   📄  **[sancode](https://github.com/HoratiuCode/sancode)**: SanCode is a coding standard for AI agents designed to reduce AI-generated code bloat, unnecessary abstractions, and dependency addiction.
+
 ## My Workspace
 
 My digital forge is powered by a suite of cutting-edge tools, meticulously chosen to amplify productivity and innovation:
@@ -70,5 +72,24 @@ Let's connect and build the future together!
   </a>
   <a href="https://horatiucode.xyz">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge">
+  </a>
+</p>
+
+## Creating Big Things
+
+Here are some of the innovative projects I'm building:
+
+<p align="left">
+  <a href="https://symplyfy.xyz">
+    <img src="https://img.shields.io/badge/Symplyfy-Infrastructure-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Symplyfy Badge">
+  </a>
+  <a href="https://jameclaw.xyz">
+    <img src="https://img.shields.io/badge/Jameclaw-AI%20Workspaces-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Jameclaw Badge">
+  </a>
+  <a href="https://squidbank.xyz">
+    <img src="https://img.shields.io/badge/Squidbank-Agent%20Economy%20Finance-00BCD4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Squidbank Badge">
+  </a>
+  <a href="https://melaipath.com">
+    <img src="https://img.shields.io/badge/MelaiPath-Enterprise%20AI-673AB7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="MelaiPath Badge">
   </a>
 </p>
