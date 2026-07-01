@@ -80,8 +80,8 @@ Let's connect and build the future together!
 Here are some of the innovative projects I'm building:
 
 <p align="left">
-  <a href="https://symplyfy.xyz">
-    <img src="https://img.shields.io/badge/Symplyfy-Infrastructure-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Symplyfy Badge">
+  <a href="https://melaipath.com">
+    <img src="https://img.shields.io/badge/MelaiPath-Enterprise%20AI-673AB7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="MelaiPath Badge">
   </a>
   <a href="https://jameclaw.xyz">
     <img src="https://img.shields.io/badge/Jameclaw-AI%20Workspaces-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Jameclaw Badge">
@@ -89,7 +89,7 @@ Here are some of the innovative projects I'm building:
   <a href="https://squidbank.xyz">
     <img src="https://img.shields.io/badge/Squidbank-Agent%20Economy%20Finance-00BCD4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Squidbank Badge">
   </a>
-  <a href="https://melaipath.com">
-    <img src="https://img.shields.io/badge/MelaiPath-Enterprise%20AI-673AB7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="MelaiPath Badge">
+  <a href="https://symplyfy.xyz">
+    <img src="https://img.shields.io/badge/Symplyfy-Infrastructure-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTIgLTUuMzczIDEyLTEyUzE4LjYzIDAgMTIgMHptMCAyLjQxN2M0LjE4MiAwIDcuNTgzIDMuNDAxIDcuNTgzIDcuNTgzIDAgNC4xODItMy40MDEgNy41ODMtNy41ODMtNy41ODMtNC4xODIgMC03LjU4My0zLjQwMS03LjU4My03LjU4MyAwLTQuMTgyIDMuNDAxLTcuNTgzIDcuNTgzLTcuNTh6IiBmaWxsPSIjRkY5OTAwIi8+PC9zdmc+&logoColor=white" alt="Symplyfy Badge">
   </a>
 </p>
