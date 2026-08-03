@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Tech-Innovation-5D3FD3?style=for-the-badge&logo=react&logoColor=white" alt="Tech Innovation Badge">
 </p>
 
-Deep in the pursuit of **transformative AI and decentralized technologies**, I am building the future at an accelerated pace. With a strong foundation in strategic investment and a passion for pushing technological boundaries, I am dedicated to creating impactful solutions that redefine industries.
+**Building AI infrastructure for the next generation of software.**
 
 ## Current Projects
 
