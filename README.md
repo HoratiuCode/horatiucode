@@ -54,7 +54,7 @@ My digital forge is powered by a suite of cutting-edge tools, meticulously chose
 
 ## My Vision
 
-Driven by the transformative potential of AI and the decentralized future of crypto, I push boundaries to build impactful solutions. My journey moves from mastering AI and agents to pioneering new frontiers in AI-driven projects and memecoins, always innovating and never repeating the same path.
+Building at the intersection of AI and decentralized systems. I am focused on creating infrastructure for the next generation of intelligent software, from autonomous agents to financial systems. I believe the future will be shaped by AI-native products, and I am building toward that future.
 
 ## Connect with Me
 
