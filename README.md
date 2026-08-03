@@ -23,14 +23,9 @@
 *   👃  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**: A tool for tracking and analyzing trending memecoin across multiple blockchains.
 *   💡  **[ideas-machien](https://github.com/HoratiuCode/ideas-machien)**: An innovative engine for brainstorming and organizing creative project ideas.
 *   🐦  **[BraiX](https://github.com/HoratiuCode/BraiX)**: BraiX 🐦 helps you find the most relevant post on X without endless scrolling by scanning visible or loaded posts, ranking them by engagement, and filtering them with simple news-focused rules.
-*   🍎  **[MirrorAir](https://github.com/HoratiuCode/MirrorAir)**: A seamless file and screen sharing utility for cross-device collaboration.
 *   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
 *   💰  **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
-*   🗑️  **[ALIAI](https://github.com/HoratiuCode/ALIAI)**: Your personal computer cleaner
-*   📈  **[Stock-Analysis](https://github.com/HoratiuCode/Stock-Analysis)**: A lightweight open-source tool that fetches and displays essential stock market data. Enter a stock ticker and instantly get key information such as current price, daily change, market cap, volume, and historical data. Built for simplicity, speed, and clarity. No complex dashboards. No overengineered analytics. Just the data you need.
-*   🤖  **[simple-ai-agents](https://github.com/HoratiuCode/simple-ai-agents)**: A collection of lightweight and easy-to-deploy AI agent templates.
 *   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
-*   🌐  **[landingpage](https://github.com/HoratiuCode/landingpage)**: Teddy AI – Concept and landing page prototype for an AI agency website
 *   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
 *   📄  **[sancode](https://github.com/HoratiuCode/sancode)**: SanCode is a coding standard for AI agents designed to reduce AI-generated code bloat, unnecessary abstractions, and dependency addiction.
 
