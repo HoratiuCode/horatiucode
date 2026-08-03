@@ -13,21 +13,45 @@
 
 ## Current Projects
 
-*   🦐  **[Clawie](https://github.com/HoratiuCode/Clawie)**: Clawie is a fast terminal coding agent built to write code well, stay easy to use, and run with serious local-model power when you want speed and control on your own machine.
-*   🦐  **[Jameclaw](https://github.com/HoratiuCode/Jameclaw)**: Your AI agent for fancy jobs ------ JameClaw runs complex, multi-step tasks autonomously - no babysitting, no prompt loops. Set a goal and walk away.
-*   🧠 **[Founder-Memory](https://github.com/HoratiuCode/Founder-Memory)**: Access your second brain
-*   🤖  **[VAl_companion](https://github.com/HoratiuCode/VAl_companion)**: A versatile AI companion designed to assist with daily tasks and information retrieval.
-*   🔵  **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: Polymarket risk/reward scanner for binary contracts.
-*   🔵 **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: Launch your coin.
-*   📈  **[trader-learn](https://github.com/HoratiuCode/trader-learn)**: An educational platform focused on teaching stock and crypto trading strategies.
-*   👃  **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**: A tool for tracking and analyzing trending memecoin across multiple blockchains.
-*   💡  **[ideas-machien](https://github.com/HoratiuCode/ideas-machien)**: An innovative engine for brainstorming and organizing creative project ideas.
-*   🐦  **[BraiX](https://github.com/HoratiuCode/BraiX)**: BraiX 🐦 helps you find the most relevant post on X without endless scrolling by scanning visible or loaded posts, ranking them by engagement, and filtering them with simple news-focused rules.
-*   🛠️  **[manus-skills](https://github.com/HoratiuCode/manus-skills)**: A collection of specialized Manus Skills for various domains and tasks.
-*   💰  **[memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: A Manus Skill for memecoin trading on Solana, Base, and Ethereum.
-*   💼  **[dominai](https://github.com/HoratiuCode/dominai)**: DominAI is an AI-powered business partner that helps you make smart, data-driven decisions, automate workflows, and scale projects with precision and speed.
-*   🐦  **[mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching live X/Twitter posts.
-*   📄  **[sancode](https://github.com/HoratiuCode/sancode)**: SanCode is a coding standard for AI agents designed to reduce AI-generated code bloat, unnecessary abstractions, and dependency addiction.
+## 🦐 AI Agents & Infrastructure
+
+* 🦐 **[Clawie](https://github.com/HoratiuCode/Clawie)**: A fast terminal coding agent built to write code efficiently, stay easy to use, and run with local AI models for speed and control.
+
+* 🦐 **[JameClaw](https://github.com/HoratiuCode/JameClaw)**: An autonomous AI agent designed to execute complex, multi-step tasks with minimal human intervention.
+
+* 📄 **[Founder-Memory](https://github.com/HoratiuCode/Founder-Memory)**: An AI-powered second brain designed to organize knowledge, context, and memories for founders.
+
+* 🛠️ **[SanCode](https://github.com/HoratiuCode/sancode)**: A coding standard for AI agents focused on reducing generated code bloat, unnecessary abstractions, and dependency overload.
+
+---
+
+## 🤖 AI Tools & Experiments
+
+* 🤖 **[VAI_companion](https://github.com/HoratiuCode/VAl_companion)**: A versatile AI companion designed to assist with daily tasks, workflows, and information retrieval.
+
+* 💼 **[DominAI](https://github.com/HoratiuCode/dominai)**: An AI business assistant that helps with decision-making, workflow automation, and scaling operations.
+
+* 🐦 **[BraiX](https://github.com/HoratiuCode/BraiX)**: An AI-powered tool for discovering relevant content on X by ranking posts, filtering information, and reducing noise.
+
+* 🐦 **[Mybird](https://github.com/HoratiuCode/mybird)**: A Chrome extension for saving keywords and searching relevant posts across X/Twitter.
+
+* 🛠️ **[Manus Skills](https://github.com/HoratiuCode/manus-skills)**: A collection of reusable skills and capabilities for AI agents.
+
+* 💡 **[Ideas-machine](https://github.com/HoratiuCode/ideas-machien)**: An AI-powered system for generating, organizing, and exploring project ideas.
+
+---
+
+## 💰 Financial Systems & Market Research
+
+* 🔵 **[PolyRisk](https://github.com/HoratiuCode/PolyRisk)**: A risk and reward analysis tool for prediction markets and binary contracts.
+
+* 🔵 **[Slash.fun](https://github.com/HoratiuCode/Slash.fun)**: An experimental platform exploring crypto asset creation.
+
+* 📈 **[Trader-learn](https://github.com/HoratiuCode/trader-learn)**: An educational platform exploring trading concepts and financial markets.
+
+* 👃 **[Snifmeme](https://github.com/HoratiuCode/Snifmeme)**: A research tool for tracking and analyzing memecoin trends across multiple blockchains.
+
+* 💰 **[Memecoin-trader-skill](https://github.com/HoratiuCode/memecoin-trader-skill)**: An experimental AI skill for analyzing crypto markets across Solana, Base, and Ethereum.
 
 ## My Workspace
 
