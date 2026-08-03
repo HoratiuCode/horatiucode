@@ -1,6 +1,6 @@
 # Hi, I'm Horatiu 🤖
 
-📍 **Timișoara ↔ Everywhere** | 🚀 **AI & Crypto Visionary** | 💼 **Co-founder of Symplyfy** | 
+📍 **Timișoara ↔ Everywhere** | 🚀 **AI infrastructure** | 🦑 **Founder Squid** | 
 🧠 **Polymath**
 
 <p align="left">
